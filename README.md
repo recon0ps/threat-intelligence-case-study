@@ -106,18 +106,6 @@ The operation used government-themed visual identity, deceptive narratives aroun
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 threat-intel-fraud-campaign/
- ┣ 📄 README.md          ← This file
- ┣ 📁 iocs/              ← Indicators of compromise (anonymized)
- ┣ 📁 analysis/          ← Analysis notes and artifacts
- ┗ 📁 reports/           ← Exported reports
-```
-
----
-
 ## ⚠️ Disclaimer
 
 This repository is **strictly educational and for portfolio purposes**. All sensitive identifiers have been removed or anonymized. None of the described techniques were applied actively, intrusively, or in violation of any system or service.
